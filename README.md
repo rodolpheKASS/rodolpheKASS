@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rodolpheKASS
 - 👀 I’m interested in Data Analytics and ML modeling
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on data science projects
+- 💞️ I’m looking to collaborate on Big Data Analytics & Data Science projects
 - 📫 How to reach me at kbanyokem@gmail.com / rodolphebanyokem@gmail.com
 
 <!---
